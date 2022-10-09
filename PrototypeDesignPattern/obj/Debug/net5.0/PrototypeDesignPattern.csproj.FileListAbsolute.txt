@@ -1,0 +1,15 @@
+/Users/tringuyen/RiderProjects/DesignPattern/PrototypeDesignPattern/bin/Debug/net5.0/PrototypeDesignPattern.deps.json
+/Users/tringuyen/RiderProjects/DesignPattern/PrototypeDesignPattern/bin/Debug/net5.0/PrototypeDesignPattern.runtimeconfig.json
+/Users/tringuyen/RiderProjects/DesignPattern/PrototypeDesignPattern/bin/Debug/net5.0/PrototypeDesignPattern.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/DesignPattern/PrototypeDesignPattern/bin/Debug/net5.0/PrototypeDesignPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/PrototypeDesignPattern/bin/Debug/net5.0/ref/PrototypeDesignPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/PrototypeDesignPattern/bin/Debug/net5.0/PrototypeDesignPattern.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/PrototypeDesignPattern/obj/Debug/net5.0/PrototypeDesignPattern.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/DesignPattern/PrototypeDesignPattern/obj/Debug/net5.0/PrototypeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/DesignPattern/PrototypeDesignPattern/obj/Debug/net5.0/PrototypeDesignPattern.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/PrototypeDesignPattern/obj/Debug/net5.0/PrototypeDesignPattern.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/DesignPattern/PrototypeDesignPattern/obj/Debug/net5.0/PrototypeDesignPattern.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/PrototypeDesignPattern/obj/Debug/net5.0/PrototypeDesignPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/PrototypeDesignPattern/obj/Debug/net5.0/ref/PrototypeDesignPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/PrototypeDesignPattern/obj/Debug/net5.0/PrototypeDesignPattern.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/PrototypeDesignPattern/obj/Debug/net5.0/PrototypeDesignPattern.genruntimeconfig.cache
