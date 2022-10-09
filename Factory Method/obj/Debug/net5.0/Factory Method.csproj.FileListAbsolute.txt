@@ -1,0 +1,15 @@
+/Users/tringuyen/RiderProjects/DesignPattern/Factory Method/bin/Debug/net5.0/Factory Method.deps.json
+/Users/tringuyen/RiderProjects/DesignPattern/Factory Method/bin/Debug/net5.0/Factory Method.runtimeconfig.json
+/Users/tringuyen/RiderProjects/DesignPattern/Factory Method/bin/Debug/net5.0/Factory Method.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/DesignPattern/Factory Method/bin/Debug/net5.0/Factory Method.dll
+/Users/tringuyen/RiderProjects/DesignPattern/Factory Method/bin/Debug/net5.0/ref/Factory Method.dll
+/Users/tringuyen/RiderProjects/DesignPattern/Factory Method/bin/Debug/net5.0/Factory Method.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/Factory Method/obj/Debug/net5.0/Factory Method.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/DesignPattern/Factory Method/obj/Debug/net5.0/Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/DesignPattern/Factory Method/obj/Debug/net5.0/Factory Method.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/Factory Method/obj/Debug/net5.0/Factory Method.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/DesignPattern/Factory Method/obj/Debug/net5.0/Factory Method.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/Factory Method/obj/Debug/net5.0/Factory Method.dll
+/Users/tringuyen/RiderProjects/DesignPattern/Factory Method/obj/Debug/net5.0/ref/Factory Method.dll
+/Users/tringuyen/RiderProjects/DesignPattern/Factory Method/obj/Debug/net5.0/Factory Method.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/Factory Method/obj/Debug/net5.0/Factory Method.genruntimeconfig.cache

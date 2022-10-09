@@ -1,0 +1,15 @@
+/Users/tringuyen/RiderProjects/DesignPattern/Singleton/bin/Debug/net5.0/Singleton.deps.json
+/Users/tringuyen/RiderProjects/DesignPattern/Singleton/bin/Debug/net5.0/Singleton.runtimeconfig.json
+/Users/tringuyen/RiderProjects/DesignPattern/Singleton/bin/Debug/net5.0/Singleton.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/DesignPattern/Singleton/bin/Debug/net5.0/Singleton.dll
+/Users/tringuyen/RiderProjects/DesignPattern/Singleton/bin/Debug/net5.0/ref/Singleton.dll
+/Users/tringuyen/RiderProjects/DesignPattern/Singleton/bin/Debug/net5.0/Singleton.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/Singleton/obj/Debug/net5.0/Singleton.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/DesignPattern/Singleton/obj/Debug/net5.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/DesignPattern/Singleton/obj/Debug/net5.0/Singleton.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/Singleton/obj/Debug/net5.0/Singleton.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/DesignPattern/Singleton/obj/Debug/net5.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/Singleton/obj/Debug/net5.0/Singleton.dll
+/Users/tringuyen/RiderProjects/DesignPattern/Singleton/obj/Debug/net5.0/ref/Singleton.dll
+/Users/tringuyen/RiderProjects/DesignPattern/Singleton/obj/Debug/net5.0/Singleton.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/Singleton/obj/Debug/net5.0/Singleton.genruntimeconfig.cache
