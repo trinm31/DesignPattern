@@ -1,0 +1,15 @@
+/Users/tringuyen/RiderProjects/DesignPattern/FacadeDesignPattern/bin/Debug/net5.0/FacadeDesignPattern.deps.json
+/Users/tringuyen/RiderProjects/DesignPattern/FacadeDesignPattern/bin/Debug/net5.0/FacadeDesignPattern.runtimeconfig.json
+/Users/tringuyen/RiderProjects/DesignPattern/FacadeDesignPattern/bin/Debug/net5.0/FacadeDesignPattern.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/DesignPattern/FacadeDesignPattern/bin/Debug/net5.0/FacadeDesignPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/FacadeDesignPattern/bin/Debug/net5.0/ref/FacadeDesignPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/FacadeDesignPattern/bin/Debug/net5.0/FacadeDesignPattern.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/FacadeDesignPattern/obj/Debug/net5.0/FacadeDesignPattern.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/DesignPattern/FacadeDesignPattern/obj/Debug/net5.0/FacadeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/DesignPattern/FacadeDesignPattern/obj/Debug/net5.0/FacadeDesignPattern.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/FacadeDesignPattern/obj/Debug/net5.0/FacadeDesignPattern.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/DesignPattern/FacadeDesignPattern/obj/Debug/net5.0/FacadeDesignPattern.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/FacadeDesignPattern/obj/Debug/net5.0/FacadeDesignPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/FacadeDesignPattern/obj/Debug/net5.0/ref/FacadeDesignPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/FacadeDesignPattern/obj/Debug/net5.0/FacadeDesignPattern.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/FacadeDesignPattern/obj/Debug/net5.0/FacadeDesignPattern.genruntimeconfig.cache
