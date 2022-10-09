@@ -1,0 +1,15 @@
+/Users/tringuyen/RiderProjects/DesignPattern/CompositeDesignPattern/bin/Debug/net5.0/CompositeDesignPattern.deps.json
+/Users/tringuyen/RiderProjects/DesignPattern/CompositeDesignPattern/bin/Debug/net5.0/CompositeDesignPattern.runtimeconfig.json
+/Users/tringuyen/RiderProjects/DesignPattern/CompositeDesignPattern/bin/Debug/net5.0/CompositeDesignPattern.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/DesignPattern/CompositeDesignPattern/bin/Debug/net5.0/CompositeDesignPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/CompositeDesignPattern/bin/Debug/net5.0/ref/CompositeDesignPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/CompositeDesignPattern/bin/Debug/net5.0/CompositeDesignPattern.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/CompositeDesignPattern/obj/Debug/net5.0/CompositeDesignPattern.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/DesignPattern/CompositeDesignPattern/obj/Debug/net5.0/CompositeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/DesignPattern/CompositeDesignPattern/obj/Debug/net5.0/CompositeDesignPattern.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/CompositeDesignPattern/obj/Debug/net5.0/CompositeDesignPattern.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/DesignPattern/CompositeDesignPattern/obj/Debug/net5.0/CompositeDesignPattern.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/CompositeDesignPattern/obj/Debug/net5.0/CompositeDesignPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/CompositeDesignPattern/obj/Debug/net5.0/ref/CompositeDesignPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/CompositeDesignPattern/obj/Debug/net5.0/CompositeDesignPattern.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/CompositeDesignPattern/obj/Debug/net5.0/CompositeDesignPattern.genruntimeconfig.cache
