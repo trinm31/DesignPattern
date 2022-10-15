@@ -1,0 +1,15 @@
+/Users/tringuyen/RiderProjects/DesignPattern/LeaveRequest-Ex-chainResponsibility/bin/Debug/net5.0/LeaveRequest-Ex-chainResponsibility.deps.json
+/Users/tringuyen/RiderProjects/DesignPattern/LeaveRequest-Ex-chainResponsibility/bin/Debug/net5.0/LeaveRequest-Ex-chainResponsibility.runtimeconfig.json
+/Users/tringuyen/RiderProjects/DesignPattern/LeaveRequest-Ex-chainResponsibility/bin/Debug/net5.0/LeaveRequest-Ex-chainResponsibility.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/DesignPattern/LeaveRequest-Ex-chainResponsibility/bin/Debug/net5.0/LeaveRequest-Ex-chainResponsibility.dll
+/Users/tringuyen/RiderProjects/DesignPattern/LeaveRequest-Ex-chainResponsibility/bin/Debug/net5.0/ref/LeaveRequest-Ex-chainResponsibility.dll
+/Users/tringuyen/RiderProjects/DesignPattern/LeaveRequest-Ex-chainResponsibility/bin/Debug/net5.0/LeaveRequest-Ex-chainResponsibility.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/LeaveRequest-Ex-chainResponsibility/obj/Debug/net5.0/LeaveRequest-Ex-chainResponsibility.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/DesignPattern/LeaveRequest-Ex-chainResponsibility/obj/Debug/net5.0/LeaveRequest-Ex-chainResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/DesignPattern/LeaveRequest-Ex-chainResponsibility/obj/Debug/net5.0/LeaveRequest-Ex-chainResponsibility.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/LeaveRequest-Ex-chainResponsibility/obj/Debug/net5.0/LeaveRequest-Ex-chainResponsibility.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/DesignPattern/LeaveRequest-Ex-chainResponsibility/obj/Debug/net5.0/LeaveRequest-Ex-chainResponsibility.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/LeaveRequest-Ex-chainResponsibility/obj/Debug/net5.0/LeaveRequest-Ex-chainResponsibility.dll
+/Users/tringuyen/RiderProjects/DesignPattern/LeaveRequest-Ex-chainResponsibility/obj/Debug/net5.0/ref/LeaveRequest-Ex-chainResponsibility.dll
+/Users/tringuyen/RiderProjects/DesignPattern/LeaveRequest-Ex-chainResponsibility/obj/Debug/net5.0/LeaveRequest-Ex-chainResponsibility.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/LeaveRequest-Ex-chainResponsibility/obj/Debug/net5.0/LeaveRequest-Ex-chainResponsibility.genruntimeconfig.cache
