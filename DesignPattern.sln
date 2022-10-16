@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainResponsibility", "Chai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveRequest-Ex-chainResponsibility", "LeaveRequest-Ex-chainResponsibility\LeaveRequest-Ex-chainResponsibility.csproj", "{37FBCFEA-E478-4E67-B72F-2F1A1DDD22BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankApp-Ex-CammandPattern", "BankApp-Ex-CammandPattern\BankApp-Ex-CammandPattern.csproj", "{8813B184-7D85-42AD-AEAA-EB0B2534B2FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{37FBCFEA-E478-4E67-B72F-2F1A1DDD22BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37FBCFEA-E478-4E67-B72F-2F1A1DDD22BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37FBCFEA-E478-4E67-B72F-2F1A1DDD22BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8813B184-7D85-42AD-AEAA-EB0B2534B2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8813B184-7D85-42AD-AEAA-EB0B2534B2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8813B184-7D85-42AD-AEAA-EB0B2534B2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8813B184-7D85-42AD-AEAA-EB0B2534B2FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

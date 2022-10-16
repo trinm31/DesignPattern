@@ -1,0 +1,15 @@
+/Users/tringuyen/RiderProjects/DesignPattern/BankApp-Ex-CammandPattern/bin/Debug/net5.0/BankApp-Ex-CammandPattern.deps.json
+/Users/tringuyen/RiderProjects/DesignPattern/BankApp-Ex-CammandPattern/bin/Debug/net5.0/BankApp-Ex-CammandPattern.runtimeconfig.json
+/Users/tringuyen/RiderProjects/DesignPattern/BankApp-Ex-CammandPattern/bin/Debug/net5.0/BankApp-Ex-CammandPattern.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/DesignPattern/BankApp-Ex-CammandPattern/bin/Debug/net5.0/BankApp-Ex-CammandPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/BankApp-Ex-CammandPattern/bin/Debug/net5.0/ref/BankApp-Ex-CammandPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/BankApp-Ex-CammandPattern/bin/Debug/net5.0/BankApp-Ex-CammandPattern.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/BankApp-Ex-CammandPattern/obj/Debug/net5.0/BankApp-Ex-CammandPattern.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/DesignPattern/BankApp-Ex-CammandPattern/obj/Debug/net5.0/BankApp-Ex-CammandPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/DesignPattern/BankApp-Ex-CammandPattern/obj/Debug/net5.0/BankApp-Ex-CammandPattern.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/BankApp-Ex-CammandPattern/obj/Debug/net5.0/BankApp-Ex-CammandPattern.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/DesignPattern/BankApp-Ex-CammandPattern/obj/Debug/net5.0/BankApp-Ex-CammandPattern.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/BankApp-Ex-CammandPattern/obj/Debug/net5.0/BankApp-Ex-CammandPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/BankApp-Ex-CammandPattern/obj/Debug/net5.0/ref/BankApp-Ex-CammandPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/BankApp-Ex-CammandPattern/obj/Debug/net5.0/BankApp-Ex-CammandPattern.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/BankApp-Ex-CammandPattern/obj/Debug/net5.0/BankApp-Ex-CammandPattern.genruntimeconfig.cache
