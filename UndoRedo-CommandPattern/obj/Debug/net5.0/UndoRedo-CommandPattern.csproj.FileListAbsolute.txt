@@ -1,0 +1,15 @@
+/Users/tringuyen/RiderProjects/DesignPattern/UndoRedo-CommandPattern/bin/Debug/net5.0/UndoRedo-CommandPattern.deps.json
+/Users/tringuyen/RiderProjects/DesignPattern/UndoRedo-CommandPattern/bin/Debug/net5.0/UndoRedo-CommandPattern.runtimeconfig.json
+/Users/tringuyen/RiderProjects/DesignPattern/UndoRedo-CommandPattern/bin/Debug/net5.0/UndoRedo-CommandPattern.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/DesignPattern/UndoRedo-CommandPattern/bin/Debug/net5.0/UndoRedo-CommandPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/UndoRedo-CommandPattern/bin/Debug/net5.0/ref/UndoRedo-CommandPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/UndoRedo-CommandPattern/bin/Debug/net5.0/UndoRedo-CommandPattern.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/UndoRedo-CommandPattern/obj/Debug/net5.0/UndoRedo-CommandPattern.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/DesignPattern/UndoRedo-CommandPattern/obj/Debug/net5.0/UndoRedo-CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/DesignPattern/UndoRedo-CommandPattern/obj/Debug/net5.0/UndoRedo-CommandPattern.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/UndoRedo-CommandPattern/obj/Debug/net5.0/UndoRedo-CommandPattern.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/DesignPattern/UndoRedo-CommandPattern/obj/Debug/net5.0/UndoRedo-CommandPattern.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/UndoRedo-CommandPattern/obj/Debug/net5.0/UndoRedo-CommandPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/UndoRedo-CommandPattern/obj/Debug/net5.0/ref/UndoRedo-CommandPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/UndoRedo-CommandPattern/obj/Debug/net5.0/UndoRedo-CommandPattern.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/UndoRedo-CommandPattern/obj/Debug/net5.0/UndoRedo-CommandPattern.genruntimeconfig.cache
