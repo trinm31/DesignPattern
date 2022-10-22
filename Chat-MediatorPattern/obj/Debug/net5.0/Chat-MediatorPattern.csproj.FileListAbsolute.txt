@@ -1,0 +1,15 @@
+/Users/tringuyen/RiderProjects/DesignPattern/Chat-MediatorPattern/bin/Debug/net5.0/Chat-MediatorPattern.deps.json
+/Users/tringuyen/RiderProjects/DesignPattern/Chat-MediatorPattern/bin/Debug/net5.0/Chat-MediatorPattern.runtimeconfig.json
+/Users/tringuyen/RiderProjects/DesignPattern/Chat-MediatorPattern/bin/Debug/net5.0/Chat-MediatorPattern.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/DesignPattern/Chat-MediatorPattern/bin/Debug/net5.0/Chat-MediatorPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/Chat-MediatorPattern/bin/Debug/net5.0/ref/Chat-MediatorPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/Chat-MediatorPattern/bin/Debug/net5.0/Chat-MediatorPattern.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/Chat-MediatorPattern/obj/Debug/net5.0/Chat-MediatorPattern.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/DesignPattern/Chat-MediatorPattern/obj/Debug/net5.0/Chat-MediatorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/DesignPattern/Chat-MediatorPattern/obj/Debug/net5.0/Chat-MediatorPattern.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/Chat-MediatorPattern/obj/Debug/net5.0/Chat-MediatorPattern.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/DesignPattern/Chat-MediatorPattern/obj/Debug/net5.0/Chat-MediatorPattern.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/Chat-MediatorPattern/obj/Debug/net5.0/Chat-MediatorPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/Chat-MediatorPattern/obj/Debug/net5.0/ref/Chat-MediatorPattern.dll
+/Users/tringuyen/RiderProjects/DesignPattern/Chat-MediatorPattern/obj/Debug/net5.0/Chat-MediatorPattern.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/Chat-MediatorPattern/obj/Debug/net5.0/Chat-MediatorPattern.genruntimeconfig.cache

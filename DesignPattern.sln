@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankApp-Ex-CammandPattern",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UndoRedo-CommandPattern", "UndoRedo-CommandPattern\UndoRedo-CommandPattern.csproj", "{9596E267-6745-4CBB-A9E9-8BCC3332593B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat-MediatorPattern", "Chat-MediatorPattern\Chat-MediatorPattern.csproj", "{9236CD2B-6D10-4182-8CB9-94B966B28945}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{9596E267-6745-4CBB-A9E9-8BCC3332593B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9596E267-6745-4CBB-A9E9-8BCC3332593B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9596E267-6745-4CBB-A9E9-8BCC3332593B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9236CD2B-6D10-4182-8CB9-94B966B28945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9236CD2B-6D10-4182-8CB9-94B966B28945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9236CD2B-6D10-4182-8CB9-94B966B28945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9236CD2B-6D10-4182-8CB9-94B966B28945}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
