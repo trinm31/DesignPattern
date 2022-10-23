@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TrackingAccount_observer
+build_property.ProjectDir = /Users/tringuyen/RiderProjects/DesignPattern/TrackingAccount-observer/

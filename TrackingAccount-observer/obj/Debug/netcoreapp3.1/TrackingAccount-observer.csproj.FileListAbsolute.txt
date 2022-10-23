@@ -1,0 +1,13 @@
+/Users/tringuyen/RiderProjects/DesignPattern/TrackingAccount-observer/bin/Debug/netcoreapp3.1/TrackingAccount-observer.deps.json
+/Users/tringuyen/RiderProjects/DesignPattern/TrackingAccount-observer/bin/Debug/netcoreapp3.1/TrackingAccount-observer.runtimeconfig.json
+/Users/tringuyen/RiderProjects/DesignPattern/TrackingAccount-observer/bin/Debug/netcoreapp3.1/TrackingAccount-observer.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/DesignPattern/TrackingAccount-observer/bin/Debug/netcoreapp3.1/TrackingAccount-observer.dll
+/Users/tringuyen/RiderProjects/DesignPattern/TrackingAccount-observer/bin/Debug/netcoreapp3.1/TrackingAccount-observer.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/TrackingAccount-observer/obj/Debug/netcoreapp3.1/TrackingAccount-observer.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/DesignPattern/TrackingAccount-observer/obj/Debug/netcoreapp3.1/TrackingAccount-observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/DesignPattern/TrackingAccount-observer/obj/Debug/netcoreapp3.1/TrackingAccount-observer.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/TrackingAccount-observer/obj/Debug/netcoreapp3.1/TrackingAccount-observer.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/DesignPattern/TrackingAccount-observer/obj/Debug/netcoreapp3.1/TrackingAccount-observer.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/DesignPattern/TrackingAccount-observer/obj/Debug/netcoreapp3.1/TrackingAccount-observer.dll
+/Users/tringuyen/RiderProjects/DesignPattern/TrackingAccount-observer/obj/Debug/netcoreapp3.1/TrackingAccount-observer.pdb
+/Users/tringuyen/RiderProjects/DesignPattern/TrackingAccount-observer/obj/Debug/netcoreapp3.1/TrackingAccount-observer.genruntimeconfig.cache
